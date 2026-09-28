@@ -1,4 +1,8 @@
 ---
+format:
+  html:
+    theme: litera
+website: 'R Quick Reference'
 title: "R Cheat Sheet"
 ---
 
