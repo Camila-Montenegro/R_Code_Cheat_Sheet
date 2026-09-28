@@ -11,6 +11,7 @@ website:
       - websiteaim.qmd
       - level1commands.qmd
       - level2commands.qmd
+      - mcq.qmd
       - references.qmd
 
 format:
