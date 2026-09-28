@@ -2,12 +2,4 @@
 title: "R Cheat Sheet"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-This is a quarto website designed to help UoG students
+university of Glasgow
