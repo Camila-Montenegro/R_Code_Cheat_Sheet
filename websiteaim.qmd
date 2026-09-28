@@ -1,0 +1,17 @@
+---
+title: "How to Use This Booklet"
+---
+
+<br>
+
+The booklet's aim is to be short and concise. I will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.
+
+This will be helpful, especially in labs, where you might not remember how some are spelled or how or why to use them. 
+
+Press Ctrl+F and search to make it appear. Or just scroll quickly through the coding pages. 
+
+This could be a solution on instead of looking through many pages in the original booklets, you can check it here.
+
+However, for more in-depth information, please do read the official materials. 
+
+Additionally, in the MCQ tab, I have included some questions and their answers to test understanding. I can make more if they prove to be helpful to the cohort. 

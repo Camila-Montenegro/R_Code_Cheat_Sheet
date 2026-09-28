@@ -3,7 +3,21 @@ format:
   html:
     theme: litera
 website: 'R Quick Reference'
-title: "R Cheat Sheet"
+title: "Author's Note"
 ---
+<br>
 
-university of Glasgow
+I designed and shared this resource to support students who may find coding overwhelming or confusing. This was among the most notable pieces of feedback received from the University of Glasgow Level 2 Psychology Cohort, Semester 1, 2025. I have compiled commonly used commands and examples into a concise, accessible resource to promote collaborative learning and build confidence in R programming. 
+
+I aim to complement the teaching materials prepared and shared by the University of Glasgow staff, available on Moodle. I also aim to support peer learning within the University of Glasgow community. 
+
+The R Cheat Sheet is based on material taught by the School of Psychology and Neuroscience, and all materials are publicly available online. It is intended as a supplementary study aid, not a replacement for official teaching materials. 
+
+Remember, our course offers a lot of enthusiastic and nonjudgmental support, such as PALs. I have attended a couple of times, and it has been very helpful and an overall good environment to focus. 
+
+Feedback and suggestions from students and others are welcome; do not hesitate to contact me.  
+
+<br>
+<br>
+
+Camila Montenegro-Osorio <br> 2621288M@student.gla.ac.uk
