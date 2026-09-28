@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - websiteaim.qmd
+      - level1commands.qmd
+      - level2commands.qmd
+      - references.qmd
 
 format:
   html:
