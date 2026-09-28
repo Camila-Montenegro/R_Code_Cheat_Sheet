@@ -3,7 +3,8 @@ format:
   html:
     theme: litera
 website: 'R Quick Reference'
-title: "Author's Note"
+title: "R Code Cheat Sheet"
+subtitle: 'A Student-led Resource'
 ---
 <br>
 
