@@ -1,0 +1,15 @@
+{
+  "hash": "0517c9b2fce26008f9403dc01a3b1d54",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"R Cheat Sheet\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nThis is a quarto website designed to help UoG students",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
