@@ -2,17 +2,22 @@ project:
   type: website
   output-dir: docs
 
-website: 
-  title: "R Quick Reference"
-  navbar:
-    left:
+website:
+  title: 'R Quick Reference'
+  sidebar:
+    contents:
       - href: index.qmd
         text: Home
-      - websiteaim.qmd
-      - level1commands.qmd
-      - level2commands.qmd
-      - mcq.qmd
-      - references.qmd
+      - href: websiteaim.qmd
+        text: How to use this Booklet
+      - href: level1commands.qmd
+        text: Level 1 Commands
+      - href: level2commands.qmd
+        text: Level 2 Commands
+      - href: mcq.qmd
+        text: MCQ
+      - href: references.qmd
+        text: References #Ensure three spaces from margin, and ensure alighment is even because Quarto struggled to fit in my sidebar. 
 
 format:
   html:
