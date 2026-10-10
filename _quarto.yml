@@ -10,14 +10,19 @@ website:
         text: Home
       - href: websiteaim.qmd
         text: How to use this Booklet
+      - href: funfacts.qmd
+        text: Making Coding Make More Sense
       - href: level1commands.qmd
         text: Level 1 Commands
+        contents:
+          - href: settingup.qmd
+            text: Setting Up
       - href: level2commands.qmd
         text: Level 2 Commands
       - href: mcq.qmd
         text: MCQ
       - href: references.qmd
-        text: References #Ensure three spaces from margin, and ensure alighment is even because Quarto struggled to fit in my sidebar. 
+        text: References
 
 format:
   html:

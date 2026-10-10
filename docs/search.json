@@ -21,9 +21,69 @@
     "href": "websiteaim.html",
     "title": "How to Use This Booklet",
     "section": "",
-    "text": "The booklet’s aim is to be short and concise. I will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.\nThis will be helpful, especially in labs, where you might not remember how some are spelled or how or why to use them.\nPress Ctrl+F and search to make it appear. Or just scroll quickly through the coding pages.\nThis could be a solution on instead of looking through many pages in the original booklets, you can check it here.\nHowever, for more in-depth information, please do read the official materials.\nAdditionally, in the MCQ tab, I have included some questions and their answers to test understanding. I can make more if they prove to be helpful to the cohort.",
+    "text": "The booklet’s aim is to be short and concise.",
     "crumbs": [
-      "Website Aim"
+      "How to use this Booklet"
+    ]
+  },
+  {
+    "objectID": "funfacts.html",
+    "href": "funfacts.html",
+    "title": "Fun Facts of Coding",
+    "section": "",
+    "text": "Why are some things the way they are?\n\n Why are we Pair Programming (PP)?  In professional coding at times teamwork is highly encouraged to build better software. The roles are known as the Driver and the Navigator.\n\n\n\n\n\n\n\nDriver\nNavigator\n\n\n\n\nResponsible in typing the code and ensuring there is a clear readable structure and good syntax (Nasir et al., 2026).\nResponsible for reviewing the typed code and offering feedback to imporve the work (Nasir et al., 2026).\n\n\n\n\n My RStudio is not rendering my project, no error messages are coming up either  It happened numerous times to me. Sometimes R needs a refresh, save your work, close the tab and try again. If it persists ask for help!",
+    "crumbs": [
+      "Making Coding Make More Sense"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Nasir, N. B., Devi, S., & Kim, S. B. (2026). Metaverse-integrated programming education model with student-student and student-AI pairing. Educational Technology & Society, 29(2), 1–30. JSTOR. https://www.jstor.org/stable/48867477",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "websiteaim.html#finding-specific-codes.",
+    "href": "websiteaim.html#finding-specific-codes.",
+    "title": "How to Use This Booklet",
+    "section": "Finding specific codes.",
+    "text": "Finding specific codes.\nThere are three options:\n\nPress Ctrl+F and type in what you are looking for.\nUse the search bar on the left-side of the screen in the sidebar.\nUse the sidebar and look through the pages linked and you can freely scroll through the pages.\n\nIf you check it and want more information please do read the official materials that our staff kindly made for us.",
+    "crumbs": [
+      "How to use this Booklet"
+    ]
+  },
+  {
+    "objectID": "websiteaim.html#what-is-the-booklets-format",
+    "href": "websiteaim.html#what-is-the-booklets-format",
+    "title": "How to Use This Booklet",
+    "section": "What is the Booklet’s Format?",
+    "text": "What is the Booklet’s Format?\nI will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.",
+    "crumbs": [
+      "How to use this Booklet"
+    ]
+  },
+  {
+    "objectID": "websiteaim.html#when-would-i-use-this-booklet",
+    "href": "websiteaim.html#when-would-i-use-this-booklet",
+    "title": "How to Use This Booklet",
+    "section": "When Would I use this Booklet?",
+    "text": "When Would I use this Booklet?\nThis could potentially be helpful, especially in labs, where you might not remember how some codes are spelled or how or why to use them.",
+    "crumbs": [
+      "How to use this Booklet"
+    ]
+  },
+  {
+    "objectID": "websiteaim.html#what-is-the-mcq-tab",
+    "href": "websiteaim.html#what-is-the-mcq-tab",
+    "title": "How to Use This Booklet",
+    "section": "What is the MCQ tab?",
+    "text": "What is the MCQ tab?\nThe MCQ tab have student-made multiple choice questions to test your knowledge on the codes shown in this booklet.\nInstead of aiming to mimic the tests we get in class, this is more to help you memorize or recognize how to spell the codes and when to use them.",
+    "crumbs": [
+      "How to use this Booklet"
     ]
   }
 ]

@@ -4,14 +4,29 @@ title: "How to Use This Booklet"
 
 <br>
 
-The booklet's aim is to be short and concise. I will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.
+The booklet's aim is to be short and concise, allowing you to find the codes you need for your project quickly. The codes are based on the tidyverse package by Hadley Wickham and mentioning the codes shown in our lab materials:
 
-This will be helpful, especially in labs, where you might not remember how some are spelled or how or why to use them. 
+Level 1's 'Data Skills' Textbook by Dr. Emily Nordmann
+Level 2's 'Practical Book: Analysis' by Dr. Gaby Mahrholz and Dr. Carolina E. Kuepper-Tetzel.
 
-Press Ctrl+F and search to make it appear. Or just scroll quickly through the coding pages. 
+## What is the Booklet's Format?
+I will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.
 
-This could be a solution on instead of looking through many pages in the original booklets, you can check it here.
+## When Would I use this Booklet?
+This could potentially be helpful, especially in labs, where you might not remember how some codes are spelled or how or why to use them. 
 
-However, for more in-depth information, please do read the official materials. 
+## Finding Specific codes.
+There are three options:
 
-Additionally, in the MCQ tab, I have included some questions and their answers to test understanding. I can make more if they prove to be helpful to the cohort. 
+1. Press Ctrl+F and type in what you are looking for.
+2. Use the search bar on the left-side of the screen in the sidebar.
+3. Use the sidebar and look through the pages linked and you can freely scroll through the pages.  
+
+If you check it and want more information please do read the official materials that our staff kindly made for us.
+
+## What is the MCQ tab?
+
+The MCQ tab have student-made multiple choice questions to test your knowledge on the codes shown in this booklet. 
+
+Instead of aiming to mimic the tests we get in class, this is more to help you memorize or recognize how to spell the codes and when to use them. 
+

@@ -1,0 +1,20 @@
+---
+title: "Fun Facts of Coding"
+---
+
+### Why are some things the way they are?
+
+<br>
+
+<u> Why are we Pair Programming (PP)? </u><br>
+In professional coding at times teamwork is highly encouraged to build better software. The roles are known as the **Driver** and the **Navigator**. 
+
+| Driver | Navigator |
+| :---: | :---: |
+| Responsible in typing the code and ensuring there is a clear readable structure and good syntax (Nasir et al., 2026). | Responsible for reviewing the typed code and offering feedback to imporve the work (Nasir et al., 2026). |
+
+<br>
+
+<u> My RStudio is not rendering my project, no error messages are coming up either </u><br>
+It happened numerous times to me. Sometimes R needs a refresh, save your work, close the tab and try again. If it persists ask for help!
+
