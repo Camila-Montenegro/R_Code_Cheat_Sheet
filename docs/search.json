@@ -6,7 +6,7 @@
     "section": "",
     "text": "I designed and shared this resource to support students who may find coding overwhelming or confusing. This was among the most notable pieces of feedback received from the University of Glasgow Level 2 Psychology Cohort, Semester 1, 2025. I have compiled commonly used commands and examples into a concise, accessible resource to promote collaborative learning and build confidence in R programming.\nI aim to complement the teaching materials prepared and shared by the University of Glasgow staff, available on Moodle. I also aim to support peer learning within the University of Glasgow community.\nThe R Cheat Sheet is based on material taught by the School of Psychology and Neuroscience, and all materials are publicly available online. It is intended as a supplementary study aid, not a replacement for official teaching materials.\nRemember, our course offers a lot of enthusiastic and nonjudgmental support, such as PALs. I have attended a couple of times, and it has been very helpful and an overall good environment to focus.\nFeedback and suggestions from students and others are welcome; do not hesitate to contact me.\n \nCamila Montenegro-Osorio  2621288M@student.gla.ac.uk",
     "crumbs": [
-      "Home"
+      "R Code Cheat Sheet"
     ]
   },
   {
@@ -21,9 +21,9 @@
     "href": "websiteaim.html",
     "title": "How to Use This Booklet",
     "section": "",
-    "text": "The booklet’s aim is to be short and concise.",
+    "text": "The booklet’s aim is to be short and concise, allowing you to find the codes you need for your project quickly. The codes are based on the tidyverse package by Hadley Wickham and mentioning the codes shown in our lab materials:\nLevel 1’s ‘Data Skills’ Textbook by Dr. Emily Nordmann Level 2’s ‘Practical Book: Analysis’ by Dr. Gaby Mahrholz and Dr. Carolina E. Kuepper-Tetzel.",
     "crumbs": [
-      "How to use this Booklet"
+      "How to Use This Booklet"
     ]
   },
   {
@@ -33,7 +33,7 @@
     "section": "",
     "text": "Why are some things the way they are?\n\n Why are we Pair Programming (PP)?  In professional coding at times teamwork is highly encouraged to build better software. The roles are known as the Driver and the Navigator.\n\n\n\n\n\n\n\nDriver\nNavigator\n\n\n\n\nResponsible in typing the code and ensuring there is a clear readable structure and good syntax (Nasir et al., 2026).\nResponsible for reviewing the typed code and offering feedback to imporve the work (Nasir et al., 2026).\n\n\n\n\n My RStudio is not rendering my project, no error messages are coming up either  It happened numerous times to me. Sometimes R needs a refresh, save your work, close the tab and try again. If it persists ask for help!",
     "crumbs": [
-      "Making Coding Make More Sense"
+      "Fun Facts of Coding"
     ]
   },
   {
@@ -41,7 +41,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Nasir, N. B., Devi, S., & Kim, S. B. (2026). Metaverse-integrated programming education model with student-student and student-AI pairing. Educational Technology & Society, 29(2), 1–30. JSTOR. https://www.jstor.org/stable/48867477",
+    "text": "Nasir, N. B., Devi, S., & Kim, S. B. (2026). Metaverse-integrated programming education model with student-student and student-AI pairing. Educational Technology & Society, 29(2), 1–30. JSTOR. https://www.jstor.org/stable/48867477  Wickham, H. (2023). Tidyverse: Easily install and load the tidyverse. https://tidyverse.tidyverse.org",
     "crumbs": [
       "References"
     ]
@@ -50,10 +50,10 @@
     "objectID": "websiteaim.html#finding-specific-codes.",
     "href": "websiteaim.html#finding-specific-codes.",
     "title": "How to Use This Booklet",
-    "section": "Finding specific codes.",
-    "text": "Finding specific codes.\nThere are three options:\n\nPress Ctrl+F and type in what you are looking for.\nUse the search bar on the left-side of the screen in the sidebar.\nUse the sidebar and look through the pages linked and you can freely scroll through the pages.\n\nIf you check it and want more information please do read the official materials that our staff kindly made for us.",
+    "section": "Finding Specific codes.",
+    "text": "Finding Specific codes.\nThere are three options:\n\nPress Ctrl+F and type in what you are looking for.\nUse the search bar on the left-side of the screen in the sidebar.\nUse the sidebar and look through the pages linked and you can freely scroll through the pages.\n\nIf you check it and want more information please do read the official materials that our staff kindly made for us.",
     "crumbs": [
-      "How to use this Booklet"
+      "How to Use This Booklet"
     ]
   },
   {
@@ -63,7 +63,7 @@
     "section": "What is the Booklet’s Format?",
     "text": "What is the Booklet’s Format?\nI will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.",
     "crumbs": [
-      "How to use this Booklet"
+      "How to Use This Booklet"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "section": "When Would I use this Booklet?",
     "text": "When Would I use this Booklet?\nThis could potentially be helpful, especially in labs, where you might not remember how some codes are spelled or how or why to use them.",
     "crumbs": [
-      "How to use this Booklet"
+      "How to Use This Booklet"
     ]
   },
   {
@@ -83,7 +83,68 @@
     "section": "What is the MCQ tab?",
     "text": "What is the MCQ tab?\nThe MCQ tab have student-made multiple choice questions to test your knowledge on the codes shown in this booklet.\nInstead of aiming to mimic the tests we get in class, this is more to help you memorize or recognize how to spell the codes and when to use them.",
     "crumbs": [
-      "How to use this Booklet"
+      "How to Use This Booklet"
+    ]
+  },
+  {
+    "objectID": "level1commands.html",
+    "href": "level1commands.html",
+    "title": "Level 1 Functions",
+    "section": "",
+    "text": "All codes shown in this section were found in the Data Skills Textbook by Prof. Emily Nordmann.",
+    "crumbs": [
+      "Level 1 Functions"
+    ]
+  },
+  {
+    "objectID": "level2commands.html",
+    "href": "level2commands.html",
+    "title": "Level 2 Functions",
+    "section": "",
+    "text": "All codes shown in this section were found in the Practical Book: Analysis by Gaby Mahrholz and Carolina E. Kuepper-Tetzel.",
+    "crumbs": [
+      "Level 2 Functions"
+    ]
+  },
+  {
+    "objectID": "settingup.html",
+    "href": "settingup.html",
+    "title": "Level 1: Data Skills",
+    "section": "",
+    "text": "install.packages('package_name')\n\nThis is typed in your console to download any desired packages. -&gt; Remember to put the name of the package in quotes.\n\nlibrary(package_name)\n\nUsed this load a package that has the desired functions and datasets in it. -&gt; You are telling R ‘Make everything in this package available for me to use’.\n\nread_csv(file = 'file_name')\n\nUse this to import .csv datasets into R Studio. -&gt; Remember you can read in the datasets and asign them any name. For example:\n\ndata &lt;- read_csv(file = 'file_name')\n\n\n\n\n\n\nsummary('dataset_name')\n\nUse this to display all descriptive statistics of the desired dataset in the Console pane.\n\nstr('dataset_name')\n\nUse this to show the internal structure of a dataset, including variable types and example values.\n\nSome outputs in the Console Pane could be:\n\nnum = numeric\nchr = character\nint = integer\nfactor = categorical value\n\n\n\n%&gt;%\n\nThis is called a pipe, used to take an pbject and send it to the next function. -&gt; Read it as: ‘Take this dataset and then carry out this function on it’.\n\ncount('name_of_object')\n\nUse this to count the number of observations of the desired object in the dataset. For example = number of participants or the number of people in each gender.\n\ndata %&gt;%\n  count()\n\nor \n\ndata %&gt;%\n  count(gender)\n\n\nsummarise() \n\nUse this to create a table with the summary statistics you need.\n\n\nIn R for summary statistics, there are a couple of functions, and the most common ones are:\n\n\n\n\n\n\n\nFunction\nDescription\n\n\n\n\nmean(x)\nCalculates the mean of a numeric vector\n\n\nmedian(x)\nFinds the median of x\n\n\nmax(x)\nFinds the maximum value in x\n\n\nmin(x)\nFinds the minimum value in x.\n\n\nvar(x)\nComputes the variance of x\n\n\nn()\nComputes the number of observations, similar to count() BUT used inside other functions like summarise(n = n())\n\n\nrange(x)\nDisplays the max and min value of the desired data\n\n\nsum(x)\nCalculates the sum of all values in x\n\n\nsd(x)\nCalculates standard deviation of x\n\n\n\nConsulted with (Data Summaries with Dplyr, 2022)\n\n\ngroup_by()\n\nUsed this to compute summary statistics in your desired groups. R will select the specified column and divide the data into groups.\nExample from the booklet:\n\n\n\n\n\n\ninner_join(x = variable1,  #The name of the first table you want to join.\n           y = variable2,  #The name of the second table you want to join.    \n           by ='x')        #The name of the column the two tables have in common. \n\nUse this to make a new table from two datasets that have matching columns.\n\nselect()\n\nUse this to create a new dataset with just the columns you need, plus reorder them and rename them at the same time. * You have two options:\n\n\n\nfilter()\n\nThis function is used to pick which rows you want to keep based on one or more criteria.",
+    "crumbs": [
+      "Level 1: Data Skills"
+    ]
+  },
+  {
+    "objectID": "settingup.html#what-is-each-command-for",
+    "href": "settingup.html#what-is-each-command-for",
+    "title": "Setting Up",
+    "section": "",
+    "text": "install.packages('package_name') = This is typed in your console to download any desired packages. -&gt; Remember to put the name of the package in quotes.\nlibrary(package_name) = Used to load a package that has the desired functions and datasets in it. -&gt; You are telling R ‘Make everything in this package available for me to use’.\nread_csv(file = 'file_name') =",
+    "crumbs": [
+      "Level 1 Commands",
+      "Setting Up"
+    ]
+  },
+  {
+    "objectID": "settingup.html#what-is-each-function-for",
+    "href": "settingup.html#what-is-each-function-for",
+    "title": "Level 1: Data Skills",
+    "section": "",
+    "text": "install.packages('package_name')\n\nThis is typed in your console to download any desired packages. -&gt; Remember to put the name of the package in quotes.\n\nlibrary(package_name)\n\nUsed this load a package that has the desired functions and datasets in it. -&gt; You are telling R ‘Make everything in this package available for me to use’.\n\nread_csv(file = 'file_name')\n\nUse this to import .csv datasets into R Studio. -&gt; Remember you can read in the datasets and asign them any name. For example:\n\ndata &lt;- read_csv(file = 'file_name')\n\n\n\n\n\n\nsummary('dataset_name')\n\nUse this to display all descriptive statistics of the desired dataset in the Console pane.\n\nstr('dataset_name')\n\nUse this to show the internal structure of a dataset, including variable types and example values.\n\nSome outputs in the Console Pane could be:\n\nnum = numeric\nchr = character\nint = integer\nfactor = categorical value\n\n\n\n%&gt;%\n\nThis is called a pipe, used to take an pbject and send it to the next function. -&gt; Read it as: ‘Take this dataset and then carry out this function on it’.\n\ncount('name_of_object')\n\nUse this to count the number of observations of the desired object in the dataset. For example = number of participants or the number of people in each gender.\n\ndata %&gt;%\n  count()\n\nor \n\ndata %&gt;%\n  count(gender)\n\n\nsummarise() \n\nUse this to create a table with the summary statistics you need.\n\n\nIn R for summary statistics, there are a couple of functions, and the most common ones are:\n\n\n\n\n\n\n\nFunction\nDescription\n\n\n\n\nmean(x)\nCalculates the mean of a numeric vector\n\n\nmedian(x)\nFinds the median of x\n\n\nmax(x)\nFinds the maximum value in x\n\n\nmin(x)\nFinds the minimum value in x.\n\n\nvar(x)\nComputes the variance of x\n\n\nn()\nComputes the number of observations, similar to count() BUT used inside other functions like summarise(n = n())\n\n\nrange(x)\nDisplays the max and min value of the desired data\n\n\nsum(x)\nCalculates the sum of all values in x\n\n\nsd(x)\nCalculates standard deviation of x\n\n\n\nConsulted with (Data Summaries with Dplyr, 2022)\n\n\ngroup_by()\n\nUsed this to compute summary statistics in your desired groups. R will select the specified column and divide the data into groups.\nExample from the booklet:\n\n\n\n\n\n\ninner_join(x = variable1,  #The name of the first table you want to join.\n           y = variable2,  #The name of the second table you want to join.    \n           by ='x')        #The name of the column the two tables have in common. \n\nUse this to make a new table from two datasets that have matching columns.\n\nselect()\n\nUse this to create a new dataset with just the columns you need, plus reorder them and rename them at the same time. * You have two options:\n\n\n\nfilter()\n\nThis function is used to pick which rows you want to keep based on one or more criteria.",
+    "crumbs": [
+      "Level 1: Data Skills"
+    ]
+  },
+  {
+    "objectID": "settingup.html#data-transformation",
+    "href": "settingup.html#data-transformation",
+    "title": "Level 1: Data Skills",
+    "section": "Data Transformation",
+    "text": "Data Transformation",
+    "crumbs": [
+      "Level 1: Data Skills"
     ]
   }
 ]

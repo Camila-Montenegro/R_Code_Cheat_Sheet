@@ -1,3 +1,6 @@
 ---
-title: "Level 2 Commands"
+title: "Level 2 Functions"
 ---
+<br>
+
+All codes shown in this section were found in the [Practical Book: Analysis](https://psyteachr.github.io/analysis-v4/) by Gaby Mahrholz and Carolina E. Kuepper-Tetzel.

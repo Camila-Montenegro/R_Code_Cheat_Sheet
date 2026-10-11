@@ -4,10 +4,10 @@ title: "How to Use This Booklet"
 
 <br>
 
-The booklet's aim is to be short and concise, allowing you to find the codes you need for your project quickly. The codes are based on the tidyverse package by Hadley Wickham and mentioning the codes shown in our lab materials:
+The booklet's aim is to be short and concise, allowing you to find the codes you need for your project quickly. The codes are based on the **tidyverse package** by **Hadley Wickham** and mentioning the codes shown in our lab materials:
 
-Level 1's 'Data Skills' Textbook by Dr. Emily Nordmann
-Level 2's 'Practical Book: Analysis' by Dr. Gaby Mahrholz and Dr. Carolina E. Kuepper-Tetzel.
+**Level 1's 'Data Skills' Textbook** by Dr. Emily Nordmann<br>
+**Level 2's 'Practical Book: Analysis'** by Dr. Gaby Mahrholz and Dr. Carolina E. Kuepper-Tetzel.
 
 ## What is the Booklet's Format?
 I will present commands, indicate which University of Glasgow booklet they are in, and provide a brief description of their use.

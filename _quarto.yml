@@ -3,26 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: 'R Quick Reference'
+  title: "R Quick Reference"
   sidebar:
     contents:
-      - href: index.qmd
-        text: Home
-      - href: websiteaim.qmd
-        text: How to use this Booklet
-      - href: funfacts.qmd
-        text: Making Coding Make More Sense
-      - href: level1commands.qmd
-        text: Level 1 Commands
-        contents:
-          - href: settingup.qmd
-            text: Setting Up
-      - href: level2commands.qmd
-        text: Level 2 Commands
-      - href: mcq.qmd
-        text: MCQ
-      - href: references.qmd
-        text: References
+      - index.qmd
+      - websiteaim.qmd
+      - funfacts.qmd
+      - level1commands.qmd
+      - settingup.qmd
+      - level2commands.qmd
+      - mcq.qmd
+      - references.qmd
 
 format:
   html:
@@ -31,5 +22,4 @@ format:
     toc: true
 
 editor: visual
-
 

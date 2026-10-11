@@ -1,3 +1,7 @@
 ---
-title: "Level 1 Commands"
+title: "Level 1 Functions"
 ---
+<br> 
+
+All codes shown in this section were found in the [Data Skills Textbook](https://psyteachr.github.io/data-skills-v3/index.html) by Prof. Emily Nordmann. 
+

@@ -3,3 +3,9 @@ title: "References"
 ---
 <br>
 Nasir, N. B., Devi, S., & Kim, S. B. (2026). Metaverse-integrated programming education model with student-student and student-AI pairing. *Educational Technology & Society*, *29*(2), 1–30. JSTOR. https://www.jstor.org/stable/48867477
+<br>
+R Core Team (2025). _R: A Language and Environment for Statistical
+Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+<https://www.R-project.org/>.
+<br>
+Wickham, H. (2023). Tidyverse: Easily install and load the tidyverse. https://tidyverse.tidyverse.org
